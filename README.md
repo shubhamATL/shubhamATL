@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... - shubhamATL.0209@gmail.com
+- 📫 How to reach me ... - shubhamATL.0109@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
 - Done full course on C language 
